@@ -20,3 +20,7 @@ html
 {
     hello world!
 }
+
+head {
+    google and youtube
+}
