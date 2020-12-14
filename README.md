@@ -24,3 +24,5 @@ html
 head {
     google and youtube
 }
+
+followed command into the repository
