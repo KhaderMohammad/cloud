@@ -25,4 +25,4 @@ head {
     google and youtube
 }
 
-followed command into the repository with new file in it. adnan
+followed command into the repository with new file in it. adnan google
